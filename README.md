@@ -1,6 +1,3 @@
-Here’s a well-structured **README.md** file for your GitHub repository that describes all HTML tags and their usage:  
-
----
 
 # **HTML Tags & Usage Guide**  
 
@@ -155,7 +152,3 @@ Feel free to contribute by adding more HTML projects or improving documentation.
 
 ## **License**  
 This repository is open-source and free to use under the MIT License.  
-
----
-
-Would you like any modifications or additions? 🚀
